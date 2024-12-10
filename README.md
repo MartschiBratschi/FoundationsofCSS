@@ -1,7 +1,3 @@
-Okay, considering this is your group's project guide, here's a revised version incorporating the previous feedback and adapting it for your four-person team's use:
-
---- START OF FILE ProjectsGuide.md ---
-
 # Foundations of Computational Social Systems: Our Group Project Guide
 
 This document outlines the guidelines for our four-person group project in the Foundations of Computational Social Systems course.  **Each team member is responsible for understanding and adhering to these guidelines.**
@@ -83,6 +79,3 @@ The poster must include:
 ## Project Ideas & FAQ
 
 *Refer to the original course document for detailed project ideas and FAQs.*  Let's discuss these as a group and decide on our project direction.
-
-
---- END OF FILE ProjectsGuide.md --- 
