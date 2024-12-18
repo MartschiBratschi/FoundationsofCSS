@@ -7,9 +7,18 @@ GENRE = 'schlager'
 def get_top_artists_by_genre(genre, api_key, limit=50):
     url = f'http://ws.audioscrobbler.com/2.0/?method=tag.getTopArtists&tag={genre}&api_key={api_key}&format=json&limit={limit}'
     response = requests.get(url)
+    
     if response.status_code == 200:
         data = response.json()
-        artists = [(artist['name'], int(artist['listeners'])) for artist in data['topartists']['artist']]
+        if 'error' in data:
+            print(f"API Error: {data['message']}")
+            return pd.DataFrame()
+        
+        # Debug: print the raw response
+        print(data)
+        
+        # Handle missing 'listeners' key
+        artists = [(artist['name'], int(artist.get('listeners', 0))) for artist in data['topartists']['artist']]
         return pd.DataFrame(artists, columns=['Artist', 'Listeners'])
     else:
         print(f"Error: {response.status_code}")

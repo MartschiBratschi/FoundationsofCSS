@@ -6,9 +6,9 @@ This document outlines the guidelines for our four-person group project in the F
 
 This project constitutes 50% of our course grade.  We will investigate a research question related to computational social systems using data analysis, statistics, and critical interpretation.  Our project must demonstrate what we've learned in the course.
 
-**Group Members:** [List names of all four group members]
+**Group Members:** Anna Behr, Mario König, Patricia Puntigam, Sophie Schmaratzi
 
-**Group Backgrounds:** [Briefly list each member's background - e.g., Computer Science, Sociology, Statistics - to confirm diversity requirement]
+**Group Backgrounds:** We are a diverse group of interdisciplinary students between a sociological & a computational background
 
 
 ## Key Requirements
@@ -23,8 +23,8 @@ This project constitutes 50% of our course grade.  We will investigate a researc
 
 ## Roles and Responsibilities
 
-* **Project Manager:** [Name] - Oversees project timeline, task delegation, and ensures everyone contributes equally.
-* **Data Lead:** [Name] - Responsible for data acquisition, cleaning, and preprocessing.
+* **Project Manager:** Mario König - Oversees project timeline, task delegation, and ensures everyone contributes equally.
+* **Data Lead:** Patricia Puntigam - Responsible for data acquisition, cleaning, and preprocessing.
 * **Analysis Lead:** [Name] - Leads the statistical analysis and visualization of the data.
 * **Writing Lead:** [Name] - Responsible for compiling the final report and ensuring clear, concise writing.  
 
