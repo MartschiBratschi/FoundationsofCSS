@@ -6,7 +6,7 @@ This document outlines the guidelines for our four-person group project in the F
 
 This project constitutes 50% of our course grade.  We will investigate a research question related to computational social systems using data analysis, statistics, and critical interpretation.  Our project must demonstrate what we've learned in the course.
 
-**Group Members:** Anna Behr, Mario König, Patricia Puntigam, Sophie Schmaratzi
+**Group Members:** Anna Behr, Mario König, Patricia Puntigam, Sophie Schmaratz
 
 **Group Backgrounds:** We are a diverse group of interdisciplinary students between a sociological & a computational background
 
