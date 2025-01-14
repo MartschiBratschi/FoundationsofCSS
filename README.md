@@ -25,8 +25,8 @@ This project constitutes 50% of our course grade.  We will investigate a researc
 
 * **Project Manager:** Mario König - Oversees project timeline, task delegation, and ensures everyone contributes equally.
 * **Data Lead:** Patricia Puntigam - Responsible for data acquisition, cleaning, and preprocessing.
-* **Analysis Lead:** [Anna Behr] - Leads the statistical analysis and visualization of the data.
-* **Writing Lead:** [Sophie Schmaratzi] - Responsible for compiling the final report and ensuring clear, concise writing.  
+* **Analysis Lead:** Anna Behr - Leads the statistical analysis and visualization of the data.
+* **Writing Lead:** Sophie Schmaratz - Responsible for compiling the final report and ensuring clear, concise writing.  
 
 
 **Note:** These roles are to provide structure; everyone is expected to contribute to all aspects of the project.  
