@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/901379532.svg)](https://doi.org/10.5281/zenodo.14726942)  [Titel anhand dieser DOI in Citavi-Projekt übernehmen] 
+[![DOI](https://zenodo.org/badge/901379532.svg)](https://doi.org/10.5281/zenodo.14726942) 
 
 # Foundations of Computational Social Systems: Our Group Project Guide
 
