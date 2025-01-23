@@ -71,11 +71,3 @@ The poster must include:
 * **Active participation of all group members.**
 * **(Extra Credit) Open Science practices (code/data sharing).**
 * **(Extra Credit) Advanced methods or data sources.**  
-
-
-**Remember:**  Focus on a well-defined research process and critical analysis.  **Positive results are not required for a good grade.**
-
-
-## Project Ideas & FAQ
-
-*Refer to the original course document for detailed project ideas and FAQs.*  Let's discuss these as a group and decide on our project direction.
