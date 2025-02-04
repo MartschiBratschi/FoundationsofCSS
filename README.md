@@ -8,10 +8,9 @@ This document outlines the guidelines for our four-person group project in the F
 
 This project constitutes 50% of our course grade.  We will investigate a research question related to computational social systems using data analysis, statistics, and critical interpretation.  Our project must demonstrate what we've learned in the course.
 
-**Group Members:** Anna Behr, Mario König, Patricia Puntigam, Sophie Schmaratz
+**Group Members:** Anna Behr, Mario König, Patricia Puntigam, Sophie Schmaranz
 
 **Group Backgrounds:** We are a diverse group of interdisciplinary students between a sociological & a computational background
-
 
 ## Key Requirements
 
@@ -30,9 +29,7 @@ This project constitutes 50% of our course grade.  We will investigate a researc
 * **Analysis Lead:** Anna Behr - Leads the statistical analysis and visualization of the data.
 * **Writing Lead:** Sophie Schmaratz - Responsible for compiling the final report and ensuring clear, concise writing.  
 
-
 **Note:** These roles are to provide structure; everyone is expected to contribute to all aspects of the project.  
-
 
 ## Important Dates  (End of Day)
 
@@ -53,7 +50,6 @@ The poster must include:
 3. Results (Key findings, visualizations)
 4. Conclusion (Answer to research question, limitations)
 
-
 ## Report Structure (Max 10 Pages)
 
 1. **Motivation:** Clear research question, justification, relevance to human behavior.
@@ -62,7 +58,6 @@ The poster must include:
 4. **Analysis:** Statistical methods, visualizations, interpretation of results.
 5. **Conclusion:**  Answer the research question. Discuss the reliability of findings. **Negative or unexpected results are okay!**
 6. **Critique:** Limitations, alternative explanations, potential biases.
-
 
 ## Grading (50% Poster, 50% Report)
 
